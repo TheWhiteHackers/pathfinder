@@ -11,8 +11,8 @@ The board can be used as a fidget with 4 buttons when it is not plugged into the
 ## ...and Play Games
 I programed the board where the 4 buttons can be used to play arrow/WASD games!
 
-## Additionally, Try a Simon Says Game
-I also made a simon says game that people can play if they want to stop using the device to play games!
+## Additionally, Try a Simon Says & Wack-A-Mole Game
+I also made a simon says and wack-a-mole game that people can play if they want to stop using the device to play games!
 
 ## Programs Used
 For this project I used KiCAD for making the board and Arduino IDE to code the board.
