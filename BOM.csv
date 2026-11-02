@@ -1,2 +1,3 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
+pcb board,1,JLCPCB,$10.00,$10.00,https://jlcpcb.com/pcb-fabrication/fr4-pcb
 Estimated total shipping,1,,,$0.00,
