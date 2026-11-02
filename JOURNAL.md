@@ -23,3 +23,12 @@
 **6.07h**
 
 [Timelapse](https://lookout.hackclub.com/api/media/aeeef249-94c6-420f-9b9f-8a766021fbc5/video.mp4)
+
+## What I did
+1. I set up all the components (LEDs, resistors, XIAO microcontroller, buttons) in the Schematic editor.
+2. I transferred the Schematic editor information to the PCB editor and moved the components so the buttons would be arranged in a arrow/WASD way. 
+3. After creating the board and wiring, I added pixel game images through the image converter on KiCAD
+4. I then created the arduino code for the arrow/WASD feature
+5. Next I set up of the 3D view for KiCAD
+6. Then I made the code for a Simon Says games
+7. Finally I created the code for a Wack-a-Mole game
